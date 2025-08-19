@@ -1,0 +1,408 @@
+Land,X,Y,Point_ID
+Adventureland,287,604,0
+Adventureland,364,575,1
+Adventureland,409,534,2
+Adventureland,423,471,3
+Adventureland,463,459,4
+Adventureland,539,444,5
+Adventureland,595,442,6
+Adventureland,617,449,7
+Adventureland,645,474,8
+Adventureland,657,515,9
+Adventureland,660,551,10
+Adventureland,660,593,11
+Adventureland,655,625,12
+Adventureland,637,653,13
+Adventureland,623,703,14
+Adventureland,615,720,15
+Adventureland,517,713,16
+Adventureland,427,702,17
+Adventureland,359,670,18
+"Main Street, U.S.A.",615,722,0
+"Main Street, U.S.A.",637,653,1
+"Main Street, U.S.A.",658,622,2
+"Main Street, U.S.A.",658,530,3
+"Main Street, U.S.A.",646,485,4
+"Main Street, U.S.A.",639,462,5
+"Main Street, U.S.A.",637,435,6
+"Main Street, U.S.A.",679,401,7
+"Main Street, U.S.A.",704,385,8
+"Main Street, U.S.A.",729,380,9
+"Main Street, U.S.A.",745,374,10
+"Main Street, U.S.A.",780,383,11
+"Main Street, U.S.A.",814,410,12
+"Main Street, U.S.A.",827,437,13
+"Main Street, U.S.A.",837,461,14
+"Main Street, U.S.A.",837,475,15
+"Main Street, U.S.A.",842,513,16
+"Main Street, U.S.A.",830,581,17
+"Main Street, U.S.A.",841,604,18
+"Main Street, U.S.A.",857,616,19
+"Main Street, U.S.A.",870,632,20
+"Main Street, U.S.A.",893,664,21
+"Main Street, U.S.A.",901,695,22
+"Main Street, U.S.A.",913,725,23
+"Main Street, U.S.A.",907,751,24
+"Main Street, U.S.A.",871,765,25
+"Main Street, U.S.A.",826,780,26
+"Main Street, U.S.A.",764,797,27
+"Main Street, U.S.A.",721,797,28
+"Main Street, U.S.A.",676,782,29
+"Main Street, U.S.A.",641,761,30
+"Main Street, U.S.A.",626,749,31
+"Main Street, U.S.A.",616,738,32
+Tomorrowland,810,395,0
+Tomorrowland,892,366,1
+Tomorrowland,1014,365,2
+Tomorrowland,1081,355,3
+Tomorrowland,1143,337,4
+Tomorrowland,1202,331,5
+Tomorrowland,1247,340,6
+Tomorrowland,1265,361,7
+Tomorrowland,1266,402,8
+Tomorrowland,1265,430,9
+Tomorrowland,1265,453,10
+Tomorrowland,1255,479,11
+Tomorrowland,1220,535,12
+Tomorrowland,1186,575,13
+Tomorrowland,1160,611,14
+Tomorrowland,1138,637,15
+Tomorrowland,1098,668,16
+Tomorrowland,1072,693,17
+Tomorrowland,1028,716,18
+Tomorrowland,967,733,19
+Tomorrowland,933,746,20
+Tomorrowland,907,749,21
+Tomorrowland,912,724,22
+Tomorrowland,890,661,23
+Tomorrowland,859,618,24
+Tomorrowland,843,607,25
+Tomorrowland,829,583,26
+Tomorrowland,834,547,27
+Tomorrowland,842,514,28
+Tomorrowland,837,464,29
+Tomorrowland,829,441,30
+Tomorrowland,820,420,31
+New Orleans Square,120,437,0
+New Orleans Square,175,414,1
+New Orleans Square,217,409,2
+New Orleans Square,252,427,3
+New Orleans Square,286,464,4
+New Orleans Square,314,485,5
+New Orleans Square,342,488,6
+New Orleans Square,378,486,7
+New Orleans Square,406,481,8
+New Orleans Square,424,473,9
+New Orleans Square,410,531,10
+New Orleans Square,365,574,11
+New Orleans Square,316,594,12
+New Orleans Square,287,604,13
+Bayou Country,119,438,0
+Bayou Country,21,433,1
+Bayou Country,17,410,2
+Bayou Country,13,349,3
+Bayou Country,33,332,4
+Bayou Country,76,332,5
+Bayou Country,106,325,6
+Bayou Country,142,308,7
+Bayou Country,168,304,8
+Bayou Country,178,304,9
+Bayou Country,188,316,10
+Bayou Country,192,326,11
+Bayou Country,197,337,12
+Bayou Country,209,343,13
+Bayou Country,236,355,14
+Bayou Country,252,372,15
+Bayou Country,269,386,16
+Bayou Country,278,394,17
+Bayou Country,278,406,18
+Bayou Country,271,410,19
+Bayou Country,257,399,20
+Bayou Country,244,394,21
+Bayou Country,224,394,22
+Bayou Country,218,399,23
+Bayou Country,218,405,24
+Bayou Country,206,411,25
+Bayou Country,174,414,26
+Star Wars: Galaxy's Edge,34,330,0
+Star Wars: Galaxy's Edge,64,258,1
+Star Wars: Galaxy's Edge,103,166,2
+Star Wars: Galaxy's Edge,182,105,3
+Star Wars: Galaxy's Edge,180,89,4
+Star Wars: Galaxy's Edge,202,84,5
+Star Wars: Galaxy's Edge,232,86,6
+Star Wars: Galaxy's Edge,254,74,7
+Star Wars: Galaxy's Edge,280,72,8
+Star Wars: Galaxy's Edge,302,69,9
+Star Wars: Galaxy's Edge,324,64,10
+Star Wars: Galaxy's Edge,332,52,11
+Star Wars: Galaxy's Edge,337,58,12
+Star Wars: Galaxy's Edge,361,59,13
+Star Wars: Galaxy's Edge,385,59,14
+Star Wars: Galaxy's Edge,407,55,15
+Star Wars: Galaxy's Edge,419,53,16
+Star Wars: Galaxy's Edge,427,52,17
+Star Wars: Galaxy's Edge,435,58,18
+Star Wars: Galaxy's Edge,444,26,19
+Star Wars: Galaxy's Edge,458,47,20
+Star Wars: Galaxy's Edge,484,48,21
+Star Wars: Galaxy's Edge,515,45,22
+Star Wars: Galaxy's Edge,529,53,23
+Star Wars: Galaxy's Edge,557,64,24
+Star Wars: Galaxy's Edge,567,68,25
+Star Wars: Galaxy's Edge,577,88,26
+Star Wars: Galaxy's Edge,578,108,27
+Star Wars: Galaxy's Edge,588,124,28
+Star Wars: Galaxy's Edge,594,137,29
+Star Wars: Galaxy's Edge,594,145,30
+Star Wars: Galaxy's Edge,590,151,31
+Star Wars: Galaxy's Edge,580,159,32
+Star Wars: Galaxy's Edge,566,171,33
+Star Wars: Galaxy's Edge,555,185,34
+Star Wars: Galaxy's Edge,536,198,35
+Star Wars: Galaxy's Edge,518,210,36
+Star Wars: Galaxy's Edge,494,216,37
+Star Wars: Galaxy's Edge,451,220,38
+Star Wars: Galaxy's Edge,412,216,39
+Star Wars: Galaxy's Edge,392,215,40
+Star Wars: Galaxy's Edge,368,213,41
+Star Wars: Galaxy's Edge,350,206,42
+Star Wars: Galaxy's Edge,330,203,43
+Star Wars: Galaxy's Edge,309,201,44
+Star Wars: Galaxy's Edge,286,199,45
+Star Wars: Galaxy's Edge,265,199,46
+Star Wars: Galaxy's Edge,241,205,47
+Star Wars: Galaxy's Edge,230,208,48
+Star Wars: Galaxy's Edge,213,215,49
+Star Wars: Galaxy's Edge,183,232,50
+Star Wars: Galaxy's Edge,176,245,51
+Star Wars: Galaxy's Edge,167,253,52
+Star Wars: Galaxy's Edge,171,262,53
+Star Wars: Galaxy's Edge,171,273,54
+Star Wars: Galaxy's Edge,173,286,55
+Star Wars: Galaxy's Edge,173,294,56
+Star Wars: Galaxy's Edge,175,299,57
+Star Wars: Galaxy's Edge,178,304,58
+Star Wars: Galaxy's Edge,168,304,59
+Star Wars: Galaxy's Edge,153,306,60
+Star Wars: Galaxy's Edge,128,314,61
+Star Wars: Galaxy's Edge,115,321,62
+Star Wars: Galaxy's Edge,96,328,63
+Star Wars: Galaxy's Edge,79,330,64
+Star Wars: Galaxy's Edge,61,332,65
+Star Wars: Galaxy's Edge,44,333,66
+Fronteirland,216,409,0
+Fronteirland,219,393,1
+Fronteirland,231,394,2
+Fronteirland,240,394,3
+Fronteirland,251,396,4
+Fronteirland,261,400,5
+Fronteirland,267,407,6
+Fronteirland,272,408,7
+Fronteirland,276,407,8
+Fronteirland,278,402,9
+Fronteirland,278,395,10
+Fronteirland,272,389,11
+Fronteirland,250,368,12
+Fronteirland,234,354,13
+Fronteirland,197,337,14
+Fronteirland,191,326,15
+Fronteirland,187,315,16
+Fronteirland,181,308,17
+Fronteirland,173,298,18
+Fronteirland,173,288,19
+Fronteirland,169,262,20
+Fronteirland,166,253,21
+Fronteirland,177,244,22
+Fronteirland,183,231,23
+Fronteirland,206,217,24
+Fronteirland,240,202,25
+Fronteirland,280,198,26
+Fronteirland,336,204,27
+Fronteirland,382,214,28
+Fronteirland,418,218,29
+Fronteirland,427,216,30
+Fronteirland,460,221,31
+Fronteirland,495,213,32
+Fronteirland,497,225,33
+Fronteirland,504,237,34
+Fronteirland,519,233,35
+Fronteirland,544,229,36
+Fronteirland,559,231,37
+Fronteirland,591,242,38
+Fronteirland,598,251,39
+Fronteirland,607,267,40
+Fronteirland,616,288,41
+Fronteirland,622,307,42
+Fronteirland,622,328,43
+Fronteirland,612,344,44
+Fronteirland,601,354,45
+Fronteirland,596,366,46
+Fronteirland,596,390,47
+Fronteirland,608,399,48
+Fronteirland,617,411,49
+Fronteirland,628,423,50
+Fronteirland,635,434,51
+Fronteirland,637,448,52
+Fronteirland,638,464,53
+Fronteirland,640,469,54
+Fronteirland,631,462,55
+Fronteirland,617,450,56
+Fronteirland,597,443,57
+Fronteirland,588,442,58
+Fronteirland,575,443,59
+Fronteirland,553,444,60
+Fronteirland,532,444,61
+Fronteirland,517,450,62
+Fronteirland,504,451,63
+Fronteirland,487,454,64
+Fronteirland,465,461,65
+Fronteirland,451,461,66
+Fronteirland,442,467,67
+Fronteirland,415,479,68
+Fronteirland,394,484,69
+Fronteirland,360,488,70
+Fronteirland,335,489,71
+Fronteirland,316,485,72
+Fronteirland,303,478,73
+Fronteirland,289,468,74
+Fronteirland,280,456,75
+Fronteirland,269,446,76
+Fronteirland,259,433,77
+Fronteirland,244,422,78
+Fronteirland,230,418,79
+Mickey's Toontown,559,63,0
+Mickey's Toontown,545,44,1
+Mickey's Toontown,541,22,2
+Mickey's Toontown,564,17,3
+Mickey's Toontown,578,20,4
+Mickey's Toontown,619,21,5
+Mickey's Toontown,667,20,6
+Mickey's Toontown,696,20,7
+Mickey's Toontown,721,22,8
+Mickey's Toontown,744,20,9
+Mickey's Toontown,771,19,10
+Mickey's Toontown,796,22,11
+Mickey's Toontown,820,22,12
+Mickey's Toontown,844,22,13
+Mickey's Toontown,866,27,14
+Mickey's Toontown,906,43,15
+Mickey's Toontown,925,64,16
+Mickey's Toontown,929,79,17
+Mickey's Toontown,936,92,18
+Mickey's Toontown,932,103,19
+Mickey's Toontown,908,107,20
+Mickey's Toontown,885,118,21
+Mickey's Toontown,880,131,22
+Mickey's Toontown,878,138,23
+Mickey's Toontown,851,139,24
+Mickey's Toontown,819,133,25
+Mickey's Toontown,787,132,26
+Mickey's Toontown,752,128,27
+Mickey's Toontown,718,127,28
+Mickey's Toontown,695,127,29
+Mickey's Toontown,667,129,30
+Mickey's Toontown,650,132,31
+Mickey's Toontown,625,136,32
+Mickey's Toontown,608,139,33
+Mickey's Toontown,598,143,34
+Mickey's Toontown,591,147,35
+Mickey's Toontown,592,135,36
+Mickey's Toontown,588,122,37
+Mickey's Toontown,580,111,38
+Mickey's Toontown,578,91,39
+Mickey's Toontown,570,75,40
+Mickey's Toontown,567,66,41
+Fantasyland,636,432,0
+Fantasyland,703,383,1
+Fantasyland,725,380,2
+Fantasyland,743,373,3
+Fantasyland,768,379,4
+Fantasyland,782,386,5
+Fantasyland,796,395,6
+Fantasyland,807,404,7
+Fantasyland,816,414,8
+Fantasyland,810,393,9
+Fantasyland,827,388,10
+Fantasyland,854,379,11
+Fantasyland,878,369,12
+Fantasyland,892,365,13
+Fantasyland,922,364,14
+Fantasyland,971,362,15
+Fantasyland,1018,364,16
+Fantasyland,1070,355,17
+Fantasyland,1129,339,18
+Fantasyland,1152,334,19
+Fantasyland,1201,330,20
+Fantasyland,1219,333,21
+Fantasyland,1237,338,22
+Fantasyland,1247,338,23
+Fantasyland,1252,347,24
+Fantasyland,1258,353,25
+Fantasyland,1264,358,26
+Fantasyland,1270,331,27
+Fantasyland,1262,301,28
+Fantasyland,1252,274,29
+Fantasyland,1236,255,30
+Fantasyland,1212,230,31
+Fantasyland,1181,202,32
+Fantasyland,1147,186,33
+Fantasyland,1115,172,34
+Fantasyland,1084,163,35
+Fantasyland,1063,158,36
+Fantasyland,1048,146,37
+Fantasyland,1033,131,38
+Fantasyland,1004,112,39
+Fantasyland,973,101,40
+Fantasyland,952,96,41
+Fantasyland,936,92,42
+Fantasyland,933,101,43
+Fantasyland,917,105,44
+Fantasyland,907,107,45
+Fantasyland,898,111,46
+Fantasyland,886,117,47
+Fantasyland,883,126,48
+Fantasyland,879,134,49
+Fantasyland,858,138,50
+Fantasyland,830,134,51
+Fantasyland,803,132,52
+Fantasyland,758,127,53
+Fantasyland,722,127,54
+Fantasyland,697,127,55
+Fantasyland,676,129,56
+Fantasyland,654,131,57
+Fantasyland,632,136,58
+Fantasyland,618,138,59
+Fantasyland,606,139,60
+Fantasyland,592,145,61
+Fantasyland,590,152,62
+Fantasyland,581,154,63
+Fantasyland,571,163,64
+Fantasyland,564,170,65
+Fantasyland,555,183,66
+Fantasyland,545,191,67
+Fantasyland,535,199,68
+Fantasyland,526,204,69
+Fantasyland,519,206,70
+Fantasyland,507,211,71
+Fantasyland,496,213,72
+Fantasyland,497,223,73
+Fantasyland,501,232,74
+Fantasyland,517,231,75
+Fantasyland,540,228,76
+Fantasyland,557,228,77
+Fantasyland,574,233,78
+Fantasyland,599,249,79
+Fantasyland,606,262,80
+Fantasyland,612,275,81
+Fantasyland,619,304,82
+Fantasyland,622,318,83
+Fantasyland,618,330,84
+Fantasyland,612,339,85
+Fantasyland,608,347,86
+Fantasyland,598,361,87
+Fantasyland,596,368,88
+Fantasyland,596,376,89
+Fantasyland,597,383,90
+Fantasyland,601,395,91
+Fantasyland,620,413,92
