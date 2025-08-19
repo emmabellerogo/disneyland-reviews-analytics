@@ -44,13 +44,17 @@ Contains **42,000 reviews** across 3 Disneyland branches with:
 - Bar chart of review rating distribution 
 - Top mentioned themes and associated sentiment 
 - Line chart of review trends by month and sentiment 
-- KPI "big numbers" for quick insight  
+- KPI "big numbers" for quick insight
+
+![Disneyland Guest Experience Dashboard](images/guest-experience-dash.png)
 
 ### 2. Global Review Insights  
 - Global map of origin of rating and associated rating
 - Bar chart displaying reviewer location and quantity of review
 - Line chart of global sentiment over time 
 - KPI "big numbers" for quick insight  
+
+![Global Overview Dashboard](images/global-review-dash.png)
 
 ---
 
